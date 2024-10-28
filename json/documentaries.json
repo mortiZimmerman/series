@@ -1,0 +1,16 @@
+{
+    "documentaries": [
+        {
+            "id": 1,
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDcyZDdiYzMtM2MzYi00MzE2LWFhNmMtNmE2ZTVhYjAxOTc4XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg",
+            "title": "My Octopus Teacher",
+            "year": "2020",
+            "length": "1h 25m",
+            "director": "Pippa Ehrlicj, James Reed",
+            "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world."
+        },
+        {
+            
+        }
+    ]
+}
