@@ -2,15 +2,67 @@
     "documentaries": [
         {
             "id": 1,
-            "poster": "https://m.media-amazon.com/images/M/MV5BZDcyZDdiYzMtM2MzYi00MzE2LWFhNmMtNmE2ZTVhYjAxOTc4XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg",
-            "title": "My Octopus Teacher",
-            "year": "2020",
-            "length": "1h 25m",
-            "director": "Pippa Ehrlicj, James Reed",
-            "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world."
+            "poster": "https://es.web.img3.acsta.net/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52",
+            "title": "The boys",
+            "year": "2019",
+            "length": "4 S",
+            "director": "Eric Kripke",
+            "synopsis": "Cuando los superhéroes abusan de sus poderes, un grupo de vigilantes llamados 'The Boys' hace todo lo posible por frenarlos, independientemente de los riesgos que ello conlleva."
         },
         {
-            
+            "id":2,
+            "poster":"https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+            "title":"Breaking Bad",
+            "year":"2008",
+            "length":"5 S",
+            "director":"Vince Gilligan",
+            "synopsis":"Creada por Vince Gilligan, la serie sigue las hazañas de Walter White, un modesto profesor de química de secundaria, que descubre un nuevo propósito en la vida cuando se entera de que tiene cáncer terminal y recurre a una vida delictiva para mantener a su familia."
+        },
+        {
+            "id":3,
+            "poster":"https://m.media-amazon.com/images/I/91-DZiaghdL._AC_UF894,1000_QL80_.jpg",
+            "title":"The walking dead",
+            "year":"2010",
+            "length":"11 S",
+            "director":"Scott M. Gimple",
+            "synopsis":"El ayudante del sheriff Rick Grimes recibe un disparo en combate y despierta en medio de un apocalipsis zombi. Se encuentra con un grupo en las afueras de Atlanta y, pronto, se convierte en su líder. Los caminantes (lo que ellos llaman zombis) se alimentan de los vivos, por lo que intentan trasladarse a lugares diferentes y más seguros para sobrevivir."
+        },
+        {
+            "id":4,
+            "poster":"https://pics.filmaffinity.com/From_Serie_de_TV-819325461-large.jpg",
+            "title":"From",
+            "year":"2022",
+            "length":"3 S",
+            "director":"Jack Bender",
+            "synopsis":"La serie se centra en Boyd Stevens (Perrineau), el autoproclamado sheriff y alcalde de facto, y la familia Matthews, recién llegados a la ciudad que pronto descubren que están atrapados junto con los demás residentes existentes y deben trabajar juntos para mantenerse con vida y encontrar una manera de escapar."
+        },
+        {
+            "id":5,
+            "poster":"https://pics.filmaffinity.com/Chernobyl_Miniserie_de_TV-954795032-large.jpg",
+            "title":"CHERNOBYL",
+            "year":"2019",
+            "length":"1 S",
+            "director":"Johan Renck",
+            "synopsis":"Premisa. Chernobyl dramatiza la historia del desastre de la planta nuclear de abril de 1986 que ocurrió en la República Socialista Soviética de Ucrania, Unión Soviética , contando las historias de las personas que estuvieron involucradas en el desastre y de quienes respondieron ante él."
+        },
+        {
+            "id":6,
+            "poster":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/1985/11/w1280/A0RNX2JkrI4KGkuuHKEoryCDH88.jpg",
+            "title":"La Batalla de Moscú (Битва за Москву)",
+            "year":"1985",
+            "length":"4 E",
+            "director":"Yuri Ozerov",
+            "synopsis":"La batalla de Moscú narra la heroica lucha del pueblo soviético ante las complejas situaciones que se crearon inmediatamente antes y después del ataque por parte de la Alemania nazi a la Unión de Repúblicas Socialistas Soviéticas."
+        },
+        {
+            "id":7,
+            "poster":"https://www.lavanguardia.com/peliculas-series/images/serie/poster/1973/8/w1280/1D4Q0BJHyKQbCxFhLxynbVE7914.jpg",
+            "title":"17 Instantes de una Primavera",
+            "year":"1973",
+            "length":"1 S",
+            "director":"Tatyana Lioznova",
+            "synopsis":"La serie se basa en una 'historia real' de un espía ruso, el coronel Isaev (Stirlitz) en la Alemania nazi durante 17 días al final de la Segunda Guerra Mundial. Stirlitz se ha abierto camino hasta la cima de la jerarquía nazi sin ser descubierto. Sin embargo, sus 'colegas', los principales oficiales de Hitler, Borman, Mueller y Schellenberg, comienzan a sospechar de él. Stirlitz camina constantemente al límite entre sus dos identidades, enviando información a Rusia, mientras mantiene hábilmente la apariencia de un leal al régimen nazi."
         }
     ]
+
 }

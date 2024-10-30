@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.card-img-top:hover{
+   
+    -webkit-transform:scale(1.1);transform:scale(1.1);
+    border-radius: 20px;
+}
+.cardDocumentaries{
+
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+.card-body:hover{
+    transition:all .5s ease-in-out;
+}
