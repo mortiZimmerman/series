@@ -11,8 +11,29 @@ body{
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
-
+    margin-left: 10%;
+    animation-duration: 3s;
+	animation-delay: 1s; 	
+	animation-fill-mode: both;
+    animation-name: anim-down;
 }
+
 .card-body:hover{
     transition:all .5s ease-in-out;
+    background-color: bisque;
+}
+.img-fluid{
+
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+    animation-duration: 1s;
+	animation-delay: 0.5s; 	
+	animation-fill-mode: both;
+    animation-name: anim-down;
+    
+}
+@keyframes anim-down { 
+	from { opacity: 0; transform: translateY(-100px); } 
+	to { opacity: 1; transform: translateY(0px); }  
 }
