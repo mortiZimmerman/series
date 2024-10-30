@@ -12,7 +12,7 @@ body{
     gap: 20px;
     flex-wrap: wrap;
     margin-left: 10%;
-    animation-duration: 3s;
+    animation-duration: 1.8s;
 	animation-delay: 1s; 	
 	animation-fill-mode: both;
     animation-name: anim-down;
@@ -27,8 +27,8 @@ body{
     position: relative;
     margin-bottom: 20px;
     width: 100%;
-    animation-duration: 1s;
-	animation-delay: 0.5s; 	
+    animation-duration: 1.8s;
+	animation-delay: 1s; 	
 	animation-fill-mode: both;
     animation-name: anim-down;
     
