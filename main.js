@@ -1,7 +1,5 @@
 const requestURL = '../json/documentaries.json';
 
-// función asíncrona
-
 async function fetchMoviesJson(){
     const response = await fetch(requestURL);
     const movies = await response.json();
